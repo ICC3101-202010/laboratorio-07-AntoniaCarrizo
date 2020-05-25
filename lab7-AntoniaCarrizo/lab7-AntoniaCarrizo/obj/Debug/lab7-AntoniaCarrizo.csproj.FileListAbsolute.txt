@@ -1,0 +1,10 @@
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\obj\Debug\lab7-AntoniaCarrizo.csprojAssemblyReference.cache
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\obj\Debug\lab7_AntoniaCarrizo.Calculator.resources
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\obj\Debug\lab7_AntoniaCarrizo.Properties.Resources.resources
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\obj\Debug\lab7-AntoniaCarrizo.csproj.GenerateResource.cache
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\obj\Debug\lab7-AntoniaCarrizo.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\bin\Debug\lab7-AntoniaCarrizo.exe.config
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\bin\Debug\lab7-AntoniaCarrizo.exe
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\bin\Debug\lab7-AntoniaCarrizo.pdb
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\obj\Debug\lab7-AntoniaCarrizo.exe
+C:\Users\Catalina\Desktop\laboratorio-07-AntoniaCarrizo\lab7-AntoniaCarrizo\lab7-AntoniaCarrizo\obj\Debug\lab7-AntoniaCarrizo.pdb
